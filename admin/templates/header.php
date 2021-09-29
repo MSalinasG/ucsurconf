@@ -27,7 +27,7 @@
   <link rel="stylesheet" href="css/skins/_all-skins.min.css">
 
   <link rel="stylesheet" href="css/sweetalert2.min.css">
-
+  <link rel="stylesheet" href="css/morris.css">
   <link rel="stylesheet" href="css/admin.css"> 
 
   <link rel="stylesheet" href="css/icheck.css">
