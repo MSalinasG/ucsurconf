@@ -184,13 +184,13 @@
                 </div>                
             </section>
 
-            <!--<div class="newsletter parallax">
+            <div class="newsletter parallax">
                 <div class="contenido contenedor">
                     <p>Regístrate a newsletter:</p>
                     <h3>UcSurConf</h3>
                     <a href="#mc_embed_signup" class="boton_newsletter button transparente">Registro</a>
                 </div><!--contenido-->
-            <!-- </div>--><!--newsletter-->
+            </div><!--newsletter-->
 
             <section class="seccion">
                 <h2>faltan</h2>

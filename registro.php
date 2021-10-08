@@ -58,7 +58,7 @@
                         </li>
                         <li>
                             <div class="tabla-precio">
-                                <h3>Pase por 2 días (Vieneres y Sabado)</h3>
+                                <h3>Pase por 2 días (Viernes y Sabado)</h3>
                                 <p class="numero">$45</p>
                                 <ul>
                                     <li>Bocadillos Gratis</li>
